@@ -1,3 +1,3 @@
 # HeartDiseasePredictionApi
 ♥ HeartDiseasePredictionApi
-Visit the site(https://hpma.herokuapp.com/)
+[Visit the site](https://hpma.herokuapp.com/)
