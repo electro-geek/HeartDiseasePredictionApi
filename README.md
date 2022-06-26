@@ -1,3 +1,2 @@
 # HeartDiseasePredictionApi
-♥ HeartDiseasePredictionApi
-[Visit the site](https://hpma.herokuapp.com/)
+[♥ HeartDiseasePredictionApi](https://hpma.herokuapp.com/)
